@@ -1,0 +1,6 @@
+The repository I looked at is called "Hollywood Studios Barely Promoted Non-White Actors and Films" by FiveThirtyEight. 
+Studios invest heavily in advertising and promotional campaigns and for their films and actors to influence the Academy members who vote on Oscar nominations and win, according to the story. 
+Therefore, the journalist wanted to quantify those nomination campaigns to see if it guarantees a desired nomination.
+The interesting thing is the journalist actually went through each release between certain period and inventoried every "For Your Consideration" advertisement appearing in Variety and The Hollywood Reporter. 
+ He found 363 ads and wrote down the size, page of each ad, and photographed them and included them in GitHub project folder. 
+ The table consisted of simple seven columns with details. To me, this is a great example of how journalists can create their own database for stories they want to cover. 
