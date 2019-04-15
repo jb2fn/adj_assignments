@@ -1,0 +1,14 @@
+The table containing all the inmates of the Boone County Jail:
+<tbody class="stripe" id="mrc_main_table">==$0
+
+The table containing all the passed legislation from the Missouri Legislature:
+<table id="Table1" style="HEIGHT: 232px" cellspacing="1" cellpadding="1" width="100" border="0">==$0
+
+The table containing all the minutes of the Columbia City Council:
+>table width="100%" border="1" cellspacing="0" cellpadding="4" style="clear:both;"> ==$0
+
+The element containing the mug shot of a detainee in the Boone County Jail:
+<img_alt="Mugshot of ACTION, ANTHONY SEAN" src="SHO1.MP.I006202?CNTYP=97824" title="ACTION, ANTHONY SEAN">==$0
+
+House members from Boone County in 2005:
+https://house.mo.gov/MemberGridCluster.aspx?category=county&county=Boone&year=2005&code=R
