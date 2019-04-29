@@ -1,0 +1,26 @@
+import urllib, csv
+from bs4 import BeautifulSoup
+
+csvfile = open('bills.csv', 'a')
+bill_writer = csv.writer(csvfile)
+
+url = 'https://www.senate.mo.gov/19info/BTS_Web/TrulyAgreed.aspx?SessionType=R'
+html = urllib2.urlopen(url).read()
+
+soup = BeautifulSoup(html, 'html.parser')
+
+tbody = soup.find('table', {'id': 'dgBillList'})
+
+rows = table.find_all('tr')
+
+for row in rows:
+
+	data = []
+  
+	cells = row.find_all('tr')
+
+	for cell in cells:
+  
+		data.append(cell.text)
+
+		bill_writer.writerow(data)
